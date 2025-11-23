@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/1410292112951607350?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6s7bNF7FVB)
+
 # Skin Pack Injector
 **Skin Pack Injector** is a tool that allows you to easily import your skin packs without digging into your system folders or using side programs.  
 It’s fully **open source**, so you can view, edit, and reuse the code freely.
