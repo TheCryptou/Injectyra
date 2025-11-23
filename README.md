@@ -5,8 +5,8 @@
 In less than 10 seconds, your pack is injected.
 It’s fully **open source**, so you can view, edit, and reuse the code freely.
 
-The application is **free**, **secure**, and **collects no data**.
-**Support** __persona__ folder and __custom__ folder.
+The application is **free**, **secure**, and **collects no data**. 
+**Support** _persona_ folder and _custom_ folder.
 
 # Requirements
 To use **Skin Pack Injector**, you need :
